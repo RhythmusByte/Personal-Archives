@@ -1,1 +1,1 @@
-// AlonePhilic 
+// © AlonePhilic 2023
