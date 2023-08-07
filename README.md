@@ -1,2 +1,2 @@
-# Blog-Archives
-This is a archive of my blogs!
+# Archives
+This is a archive of my personal archieves!
