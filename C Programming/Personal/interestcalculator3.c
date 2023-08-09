@@ -13,7 +13,7 @@ main()
 	/* Declaration Statements & Assigned Values (Assignment Statement) */
     
 	int time=2010, year=2000;
-    float amount=5000.00, interest=0.11, value;
+	float amount=5000.00, interest=0.11, value;
     
     /* while Loop Starts */
     
