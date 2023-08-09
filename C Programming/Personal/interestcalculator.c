@@ -1,3 +1,9 @@
+/* 
+Author - RhythmusByte
+Date - 09/08/2023 (DD/MM/YYYY)
+Time - 15:45 (Indian Time)
+*/
+
 /* Investment Problem */
 
 /* Defining values of PERIOD & PRINCIPAL */
